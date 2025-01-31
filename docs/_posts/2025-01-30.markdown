@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I Am Blogging"
 date:   2025-01-30 09:00:00 +0000
-categories:
+categories: blog
 ---
 
 The blogger visakanv set themself a challenge to write 1,000,000 words to get better at writing, and they are [not far off now](https://visakanv.com/1000/). This blog has come about chiefly because I want to learn to write better. My training has been in science, engineering and maths, and I feel that I have never had the cause to just write a lot. To get better at this, I need to practice, and a blog a month for a year seems like an easy way to get started. I plan to write about whatever strikes me as interesting, and to not decide in advance about length or topic. I'm not making as large a commitment as visakanv yet, but who knows what my resolution will be next year!

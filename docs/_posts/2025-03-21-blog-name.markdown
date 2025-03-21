@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Name of the Blog"
+date:   2025-03-21 09:00:00 +0000
+categories: blog
+---
+In 1958, the ecologist [Charles Elton](https://en.wikipedia.org/wiki/Charles_Sutherland_Elton) published a book, _The Ecology of Invasion by Animals and Plants_. The book introduced the modern field of invasion ecology and provides studies of several damaging introduced non-native species in different parts of the world. Elton was in the position of being able to paint the outlines within which many ecologists of biological invasions have added colour over the last seventy years.
+
+The time the book was published was also when the ideas of modern conservation were taking shape, and the final part of his book was devoted to that. The name of this blog comes from a section of that part of the book that I really like.
+
+> Unless one merely thinks man was intended to be an all-conquering and sterilizing power in the world, there must be some general basis for understanding what it is best to do. This means looking for some wise principle of co-existence between man and nature, even if it has to be a modified kind of man and a modified kind of nature. This is what I understand by Conservation.
+>
+> -- Charles Elton
+
+I think the phrase "A Modified Kind" that I pulled out from here can capture a lot of the things that interest me.
+
+## A Modified Kind of (Hu)man
+
+This is probably the type of change that most people think of when they think about conservation, and what needs to be done to preserve the positive features of the natural world. In order to reduce the impact of people on the planet, we need to make fundamental changes to the way that we structure and live our lives. Rapid transitions must be made in energy, transport, diet, industry, and many more parts of life – although the current political situation makes these changes look less likely than they looked a few month ago.
+
+Although these facts are agreed by almost everyone to be true, people are often in denial about the shifts that will be necessary to make these things happen. I think that technology will play a large role in the transition to a more just and sustainable world, but in some sectors progress isn't happening fast enough to remove the need for lifestyle changes in the short term (even if later progress might make it possible to shift back). I'm also worried that many people who put much faith in technology—particularly the transformative nature of powerful AI, which seems just around the corner—lack the humility to admit that going all-in on one solution increases global risk. I still can't see a way around the need for a "modified kind of (hu)man".
+
+## A Modified Kind of Nature
+
+Much less discussed in environmental circles is the necessity of a second kind of change talked about by Charles Elton. Even in the 50s, it was clear enough that there was no longer any such thing as a nature that was still unaffected _and untransformed_ by human influences. The modification of environmental systems has been going on (for good and for ill) since the earliest days of the human species, and certainly long before urbanisation and industry.
+
+It has been acknowledged by many people that the concept of "nature" is often seen by many as an untouched wilderness, parts of which perhaps still exist in the remote corners of the world. It's the romantic notion of "the wild" that often lies behind primitivist "common sense" environmental solutions which cannot be scaled, and are often harmful even when done by individuals.
+
+Even putting harmful human changes to the environment aside, I think that there is a good case for positive human intervention even in "pristine" natural systems. It is generally agreed that humans have a resonsibility to refrain from unnecessarily causing harm to individuals of all species. However, there are also situations where there is an ethical imperative not only to refrain from causing harm, but to actively alleviate it – for example, the imperative to share food with someone who is starving. I think that there is a good case to be made (and is already being made by many individuals and organisations) that we have a duty to investigate the ways in which we might be able to help non-human animals in the wild. I hope to write more about the need for a better understanding of a "modified kind of nature"
+
+##A Modified "Kind"?
+
+After I had already chosen this name, I realised that there was another sense in which it could be read that also fits nicely with my interests. Outside of ecology and science, I have been interested in philosophy, and particularly questions of ethics. As I may have already given away, I think that there a potentially big things that we get wrong when we think about the limits to our obligations to help others, and in particular when it comes to non-human animals. When people think about what is good and bad behaviour, they often (myself included) reach for the idea of "kindness" capturing some important part of this. This moral imperative can be challenging because it is very focused on individual responsibility – kindness is not something that we can pursue in the world, but requires working on ourselves. The final thing that I would like to write about (eventually) is a changed idea about what "being kind" encompasses – a "modified 'kind'".
